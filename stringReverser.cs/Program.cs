@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Digite uma palavra a ser invertida:");
+        Console.WriteLine("Digite uma palavra que deseja inverter:");
         string str = Console.ReadLine();
         char[] arr = str.ToCharArray();
 
