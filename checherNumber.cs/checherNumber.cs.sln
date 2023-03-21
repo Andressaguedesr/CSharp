@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checherNumber.cs", "checherNumber.cs\checherNumber.cs.csproj", "{15D8FC6C-D0D8-4277-971E-260928AB31CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D8FC6C-D0D8-4277-971E-260928AB31CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D8FC6C-D0D8-4277-971E-260928AB31CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D8FC6C-D0D8-4277-971E-260928AB31CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D8FC6C-D0D8-4277-971E-260928AB31CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565FB9AB-2E31-4859-AAFA-DFB943989B30}
+	EndGlobalSection
+EndGlobal
