@@ -4,6 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
+        InverterString();
+    }
+    
+    static void InverterString()
+    {
         Console.WriteLine("Digite uma palavra que deseja inverter:");
         string str = Console.ReadLine();
         char[] arr = str.ToCharArray();
